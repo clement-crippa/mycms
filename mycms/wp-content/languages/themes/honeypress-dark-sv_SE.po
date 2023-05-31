@@ -1,0 +1,308 @@
+# Translation of Themes - Honeypress Dark in Swedish
+# This file is distributed under the same license as the Themes - Honeypress Dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-14 16:34:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Honeypress Dark\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "HoneyPress Dark WordPress Theme is a lightweight, elegant, fully responsive theme. Those who want the dark variation can use this theme. It allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, e-commerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. It comes with a predesigned home page, good-looking header designs and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in no time. HoneyPress is compatible with popular plugins like WPML, Polylang, WooCommerce, and Contact Form 7."
+msgstr "WordPress-temat HoneyPress Dark är ett lätt, elegant och helt responsivt tema. Den som vill ha en mörk variant kan välja detta tema. Det låter dig skapa hänförande bloggar och webbplatser. Temat passar väl för företag, advokatbyråer, e-handel, finansföretag, agenturer, resebyråer, fotografer, design, konstnärer, privatpersoner och alla andra typer av webbplatser och bloggar för kreativa ändamål. Temat innehåller en fördesignad startsida, vackra sidhuvudsdesigner, och ett antal olika innehållssektioner som du enkelt kan anpassa. Det erbjuder även många möjligheter till anpassning (banner, tjänstebeskrivningar, rekommendationer m.m.) som sammantaget hjälper dig att snabbt skapa en vacker och unik webbplats. HoneyPress är kompatibelt med många populära tillägg, såsom WPML, Polylang, WooCommerce och Contact Form 7."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Honeypress Dark"
+msgstr "HoneyPress Dark"
+
+#: admin/inc/class-spicethemes-about-page.php:524
+msgid "Seo Optimized Images"
+msgstr "Seo Optimized Images"
+
+#: admin/inc/class-spicethemes-about-page.php:519
+msgid "Spice Social Share"
+msgstr "Spice Social Share"
+
+#: admin/inc/class-spicethemes-about-page.php:513
+msgid "Spice Post Slider"
+msgstr "Spice Post Slider"
+
+#: admin/inc/class-spicethemes-about-page.php:491
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "Installera tillägget Contact Form 7 för att kunna visa kontaktformuläret."
+
+#: admin/inc/class-spicethemes-about-page.php:507
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "search"
+msgstr "sök"
+
+#: admin/tab-pages/getting-started.php:84
+msgid "Free vs Pro"
+msgstr "Jämför gratis och Pro"
+
+#: admin/tab-pages/getting-started.php:58
+msgid "Theme Support"
+msgstr "Temasupport"
+
+#: functions.php:51
+msgid "HoneyPress Dark"
+msgstr "HoneyPress Dark"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Aktivera nu"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Aktivera SpiceBox nu"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Du har installerat tillägget SpiceBox. För att använda temats funktioner i anpassaren behöver du aktivera det."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Installera SpiceBox nu"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "För att använda temats funktioner i anpassaren behöver du installera tillägget SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:503
+msgid "You can add different banner image for a different page or post according to you"
+msgstr "Du kan lägga in en separat bannerbild för varje sida eller inlägg utifrån dina"
+
+#: admin/inc/class-spicethemes-about-page.php:501
+msgid "Unique Headers"
+msgstr "Unique Headers"
+
+#: admin/inc/class-spicethemes-about-page.php:497
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Installera tillägget Yoast SEO för att kunna visa synliga sökvägar."
+
+#: admin/inc/class-spicethemes-about-page.php:495
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:489
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:485
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Installera tillägget SpiceBox för att komma åt de avancerade sektionerna för startsidan och andra temafunktioner."
+
+#: admin/inc/class-spicethemes-about-page.php:483
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:339
+msgid "Active"
+msgstr "Aktivt"
+
+#: admin/inc/class-spicethemes-about-page.php:336
+msgid "Activate"
+msgstr "Aktivera"
+
+#: admin/inc/class-spicethemes-about-page.php:334
+msgid "Activate %s now"
+msgstr "Aktivera %s nu"
+
+#: admin/inc/class-spicethemes-about-page.php:317
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Installera och aktivera"
+
+#: admin/inc/class-spicethemes-about-page.php:315
+msgid "Install %s now"
+msgstr "Installera %s nu"
+
+#: admin/inc/class-spicethemes-about-page.php:242
+msgid "Support"
+msgstr "Support"
+
+#: admin/inc/class-spicethemes-about-page.php:234
+msgid "Recommended Actions"
+msgstr "Rekommenderade åtgärder"
+
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "Get started with HoneyPress Dark theme"
+msgstr "Kom igång med temat HoneyPress Dark"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "HoneyPress Dark theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "Temat HoneyPress Dark är nu installerat. För att kunna dra full nytta av temats alla funktioner bör du gå till vår %1$svälkomstsida%2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "Welcome to %1$s %2$s"
+msgstr "Välkommen till %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "About %1$s %2$s"
+msgstr "Om %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:111
+msgid "View Theme Info"
+msgstr "Visa temainformation"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Fel"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Aktiverar"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Installerar"
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Premium Theme Details"
+msgstr "Detaljer om premiumtema"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "Din feedback är värdefull för oss"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "PRO Demo"
+msgstr "Demo av PRO"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Demo av Lite"
+
+#: admin/tab-pages/getting-started.php:40
+msgid "Useful Links"
+msgstr "Användbara länkar"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "HoneyPress Dark theme"
+msgstr "Temat HoneyPress Dark"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Go to the Customizer"
+msgstr "Gå till anpassaren"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "För att dra full nytta av alla funktioner som detta tema har att erbjuda behöver du installera och aktivera tillägget SpiceBox. Gå till Anpassa och installera tillägget SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:229
+#: admin/tab-pages/getting-started.php:21
+msgid "Getting Started"
+msgstr "Komma igång"
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. HoneyPress Dark is compatible with popular plugins like WPML and Polylang for the translation."
+msgstr "Du kan använda detta tema för alla typer av verksamhet. HoneyPress Dark är kompatibelt med olika populära tillägg, såsom WPML och Polylang för översättning."
+
+#: admin/tab-pages/getting-started.php:17
+msgid "This theme is ideal for creating corporate and business websites. HoneyPress Dark is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "Detta tema passar utmärkt för att skapa webbplatser för koncerner och företag. HoneyPress Dark är ett barntema till WordPress-temat HoneyPress. Premiumversionen innehåller en stor mängd funktioner, såsom en startsida med många olika sektioner där du kan visa bildspel med obegränsat antal bilder, portföljer, recensioner från användare, senaste nytt, tjänstebeskrivningar, uppmaningar och mycket mer. Varje sektion på startsidan är omsorgsfullt utformad för att motsvara behoven hos företag av alla typer."
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the HoneyPress Dark theme"
+msgstr "Om temat HoneyPress Dark"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Vill du få kontentan av de senaste ändringarna i temat? Ta en titt i vår ändringslogg nedan för att få en inblick i den senaste tidens korrigeringar och funktioner som lagts till."
+
+#: admin/tab-pages/getting-started.php:91 admin/tab-pages/useful_plugins.php:20
+#: admin/tab-pages/useful_plugins.php:22
+msgid "Changelog"
+msgstr "Ändringslogg"
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid "We want to make sure you have the best experience using HoneyPress Dark, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyPress Dark as much as we enjoy creating great products."
+msgstr "Vi will vara säkra på att du får bästa möjliga användarupplevelse av temat HoneyPress Dark. Därför har vi här sammanställt all information du behöver. Vi hoppas du kommer att gilla att använda temat HoneyPress Dark lika mycket som vi älskar att skapa fantastiska produkter."
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr "Kontakta supporten"
+
+#: functions.php:51
+msgid "by SpiceThemes"
+msgstr "av SpiceThemes"
+
+#: functions.php:51
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#: functions.php:51
+msgid "| Theme:"
+msgstr "| Tema:"
+
+#: functions.php:51
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:51
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org/"
+
+#: functions.php:51
+msgid "Proudly powered by"
+msgstr "Drivs med"
+
+#: index-news.php:73 index-news.php:104
+msgid "Read more"
+msgstr "Läs mer"
+
+#: index-news.php:66 index-news.php:96
+msgid "By"
+msgstr "av"
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search…"
+msgstr "Sök …"
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search"
+msgstr "Sök"
+
+#: inc/header/header-nav.php:11
+msgid "Toggle navigation"
+msgstr "Slå på/av navigering"
+
+#: header.php:15
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/honeypress-dark-wordpress-theme/"
+msgstr "https://spicethemes.com/honeypress-dark-wordpress-theme/"
